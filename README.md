@@ -27,8 +27,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/BrenoCidade/brenocidade/assets/121961040/cfdb953b-a111-46b9-9616-5e3acc043d84" alt="Imagem">
-</p>
+  <img align="center" src="https://github.com/BrenoCidade/brenocidade/assets/121961040/9f5b140e-a0b3-46e0-9e4f-734554056718" alt="Imagem">
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
