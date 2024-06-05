@@ -1,6 +1,6 @@
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Breno Cidade Silva!
+  Hi, I'm Breno Cidade Silva!
 
   - 📚 I’m currently studying: Análise e Desenvolvimento de Sistemas at UNIFACS 
   - 🎯 Looking for: Opportunities to apply and expand my skills in Back-end development
