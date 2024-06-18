@@ -20,10 +20,11 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Java- Registration system](https://github.com/BrenoCidade/ProgramaPizzaria)
+- [Javaand Spring Boot - Financial Aggregator](https://github.com/BrenoCidade/agregadorfinanceiro)
 - [Java and Spring Boot - ToDoList](https://github.com/BrenoCidade/todolist)
+- [Java- Registration system](https://github.com/BrenoCidade/ProgramaPizzaria)
 - [HTML, CSS and JavaScript - Web Portfolio](https://github.com/BrenoCidade/portifolio)
-- [Java- Password Generator](https://github.com/BrenoCidade/geradorDeSenhas)
+- [Java - Password Generator](https://github.com/BrenoCidade/geradorDeSenhas)
 
 <!-- GIF -->
 <p align="left">
