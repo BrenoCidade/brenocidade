@@ -21,6 +21,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [Java and Spring Boot - Financial Aggregator](https://github.com/BrenoCidade/agregadorfinanceiro)
+- [Java, Spring Security + JWT  - ToDoList](https://github.com/BrenoCidade/TrilhaBackEndJR-JUN15)
 - [Java and Spring Boot - ToDoList](https://github.com/BrenoCidade/todolist)
 - [Java- Registration system](https://github.com/BrenoCidade/ProgramaPizzaria)
 - [HTML, CSS and JavaScript - Web Portfolio](https://github.com/BrenoCidade/portifolio)
