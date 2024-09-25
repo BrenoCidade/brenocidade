@@ -23,9 +23,8 @@
 - [Java and Spring Boot - Financial Aggregator](https://github.com/BrenoCidade/agregadorfinanceiro)
 - [Java, Spring Security + JWT  - ToDoList](https://github.com/BrenoCidade/TrilhaBackEndJR-JUN15)
 - [Java and Spring Boot - ToDoList](https://github.com/BrenoCidade/todolist)
-- [Java- Registration system](https://github.com/BrenoCidade/ProgramaPizzaria)
-- [HTML, CSS and JavaScript - Web Portfolio](https://github.com/BrenoCidade/portifolio)
-- [Java - Password Generator](https://github.com/BrenoCidade/geradorDeSenhas)
+- [NestJS with TypeORM - CRUD](https://github.com/BrenoCidade/ProjectNest)
+- [NestJS with Prisma - Password Generator](https://github.com/BrenoCidade/gerenciador-cripto)
 
 <!-- GIF -->
 <p align="left">
@@ -35,7 +34,7 @@
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
-    <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -45,6 +44,7 @@
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
+    <img align="center" alt="Nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original-wordmark.svg">
     <img align="center" alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg">
     <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
