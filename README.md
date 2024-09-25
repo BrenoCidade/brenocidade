@@ -24,7 +24,7 @@
 - [Java, Spring Security + JWT  - ToDoList](https://github.com/BrenoCidade/TrilhaBackEndJR-JUN15)
 - [Java and Spring Boot - ToDoList](https://github.com/BrenoCidade/todolist)
 - [NestJS with TypeORM - CRUD](https://github.com/BrenoCidade/ProjectNest)
-- [NestJS with Prisma - Password Generator](https://github.com/BrenoCidade/gerenciador-cripto)
+- [NestJS with Prisma + JWT - Cryptocurrency Dashboard](https://github.com/BrenoCidade/gerenciador-cripto)
 
 <!-- GIF -->
 <p align="left">
