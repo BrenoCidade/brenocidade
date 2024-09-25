@@ -10,7 +10,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I have a deep enthusiasm for software development, always seeking new knowledge to enhance my skills. I am constantly striving to learn and update myself to become a more competent developer. I am eager for an opportunity to demonstrate my proficiency in NodeJS, NestJS, Java, Spring Boot, HTML5, and CSS3, as well as to consolidate my knowledge in PostgreSQL.
+  - 💬 I have a deep enthusiasm for software development, always seeking new knowledge to enhance my skills. I am constantly striving to learn and update myself to become a more competent developer. I am eager for an opportunity to demonstrate my proficiency in NodeJS, NestJS, Java, Spring Boot, as well as to consolidate my knowledge in PostgreSQL.
 
   - ⚡ In my free time, I enjoy playing Valorant and CS, as well as watching movies and series. I also appreciate going to the beach to surf or simply relax.
 </details>
