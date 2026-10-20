@@ -1,6 +1,7 @@
 # Hey, I'm Breno Cidade 👋
 
-Fullstack Developer with a back-end focus, building multi-tenant SaaS platforms, APIs and real-time systems in production.
+Fullstack Developer with a back-end focus, building multi-tenant SaaS platforms, APIs and real-time systems in production.    
+
 🏆 1st Place — Hackathon CARF 2025 · *PreviFlow: ML for fiscal process prediction*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenocidade/)
